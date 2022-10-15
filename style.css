@@ -81,6 +81,7 @@ html, body{
 
 .button:hover{
     background: hsl(158, 83%, 14%);
+    cursor: pointer;
 }
 
 .price{
